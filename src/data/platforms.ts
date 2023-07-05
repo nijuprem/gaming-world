@@ -17,7 +17,7 @@ export default[
     ]
     },
     {
-    "id": 18,
+    "id": 2,
     "name": "PlayStation",
     "slug": "playstation",
     "platforms": [
