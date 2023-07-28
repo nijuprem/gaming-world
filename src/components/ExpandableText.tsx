@@ -16,7 +16,7 @@ const ExpandableText = ({ children }: Props) => {
   const summary = expanded ? children : children.substring(0, limit) + "...";
 
   return (
-    <div>
+    <div style={{ textAlign: "justify" }}>
       {summary}
       <Button
         size={"xs"}
