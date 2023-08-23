@@ -6,6 +6,8 @@ Project Link - https://gaming-world-np.netlify.app/
 
 Gaming World is a game details website created with JavaScript tools including React.js, Chakra UI, and the data being sourced from RAWG API.
 
+![1](https://github.com/nijuprem/movieadda/assets/111877615/b76c50ff-5fd4-439d-a389-3cf28d93d8b6)
+
 ## Getting Started
 
 To get started, follow these steps:
